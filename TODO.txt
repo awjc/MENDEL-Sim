@@ -1,0 +1,5 @@
+Ideas:
+
+User actions:
+* Create new simulation -> must specify parameters.. save as file
+* Open simulation

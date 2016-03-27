@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: sphereMat
+  m_Shader: {fileID: 4800000, guid: 57e1f80986d7a5349845e6d806b5e64f, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: e950636c300acaa45a3365cbe5b186ab, type: 3}
+          m_Scale: {x: 1000, y: 1000}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: e4e97d23f9bd614429d7e119e5d3cc51, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 8900000, guid: a9c6e9fed58c8544e94f00606ff00ded, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Reflection
+        second: .642857134
+      data:
+        first:
+          name: _Shininess
+        second: 3.00000072
+      data:
+        first:
+          name: _Gloss
+        second: .25
+      data:
+        first:
+          name: _FrezPow
+        second: 1.03571427
+      data:
+        first:
+          name: _FrezFalloff
+        second: 7.6785717
+      data:
+        first:
+          name: _EdgeAlpha
+        second: .785714269
+      data:
+        first:
+          name: _Metalics
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _ReflectColor
+        second: {r: 1, g: 1, b: 1, a: .501960814}

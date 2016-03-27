@@ -1,0 +1,3 @@
+MENDEL-Sim: Multi-agent, configurable Environment, Natural Darwinistic Evolution and Life SIMulator
+
+An application that lets you simulate populations of creatures and watch them evolve together unsupervised in a dynamic and configurable environment. Alternatively, create an environment and define a scoring function, then let the creatures evolve over time as they're scored individually and reproduce according to their performance.
